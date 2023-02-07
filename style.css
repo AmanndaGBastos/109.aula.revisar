@@ -1,0 +1,20 @@
+ body{
+   font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: rgb(15, 73, 207);
+
+ }
+ .header_div{
+    color: rgb(0, 255, 8);
+    font-family:'Roboto', sans-serif;
+    letter-spacing: 2px; 
+    font-size: 12px;
+     font-weight: bold;
+ }
+ .main_div button{
+   margin-top:30px;
+   width: 130px ;
+ }
+ #result_label, #result_confidence{
+   color: rgb(12, 208, 12);
+ }
+ 
